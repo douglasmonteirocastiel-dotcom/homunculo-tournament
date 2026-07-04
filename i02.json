@@ -1,0 +1,11 @@
+{
+  "id": "i02",
+  "nome": "Injetor de Solvente ACS-7",
+  "tipo": "Arma Tecnológica",
+  "slot": "Membros Superiores",
+  "peso": 1.5,
+  "dano_bonus": "1d4 (Venenoso)",
+  "municao_por_disparo": 1,
+  "efeito": "Reduz a mitigação de Dano Físico do alvo em -2 por 2 rodadas. Acelera drasticamente a degradação do revestimento para causar a condição Carne Exposta.",
+  "descricao": "Um cilindro pressurizado ligado diretamente ao nervo neural do homúnculo. Dispara um jato químico altamente corrosivo focado em derreter blindagens e próteses inimigas antes de ferir a carne."
+}
