@@ -1,0 +1,13 @@
+{
+  "id": "i03",
+  "nome": "Malha de Filtragem Dérmica XC-1",
+  "tipo": "Armadura",
+  "slot": "Pele / Revestimento",
+  "peso": 0.5,
+  "dano_bonus": "N/A",
+  "bonus_inst": 0,
+  "bonus_deg": 0,
+  "bonus_sat": 15,
+  "efeito": "Aumenta o Limite Máximo de Saturação em +15 e ignora a penalidade de Saturação do bioma de Vesperia.",
+  "descricao": "Uma segunda pele biossintética incrivelmente fina..."
+}
